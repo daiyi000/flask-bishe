@@ -1,0 +1,5 @@
+{
+  "name": "SmartStream - Intelligent Video Platform",
+  "description": "A Flask-concept React video platform featuring intelligent recommendation algorithms, user interaction, and an admin analytics dashboard.",
+  "requestFramePermissions": []
+}
